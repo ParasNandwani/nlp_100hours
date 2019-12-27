@@ -1,5 +1,6 @@
 # NLP 100 HOURS By Supervised Learning
 
 **index**
-1. Python HandsOn.   
+1. Python HandsOn.  
+2. Basic Text Processing
 
