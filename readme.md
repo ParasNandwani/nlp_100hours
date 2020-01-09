@@ -6,3 +6,4 @@
 2. Basic Text Processing
 3. Regular Expression (with NLTK).      
 4. Tokenisation.      
+5. Stemming And Lemmatisation
