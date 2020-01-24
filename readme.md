@@ -7,3 +7,4 @@
 3. Regular Expression (with NLTK).      
 4. Tokenisation.      
 5. Stemming And Lemmatisation
+6. Wordnet
